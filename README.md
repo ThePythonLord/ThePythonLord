@@ -3,7 +3,6 @@
 # `> whoami`
 
 ```
-
    ████████╗██╗  ██╗███████╗
    ╚══██╔══╝██║  ██║██╔════╝
       ██║   ███████║█████╗
@@ -23,7 +22,7 @@
    ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝
 ```
 
-### Infrastructure engineer · homelab tinkerer · builder of small useful things
+### Infrastructure & systems engineer
 
 </div>
 
@@ -32,27 +31,13 @@
 ```python
 class Engineer:
     def __init__(self):
-        self.role      = "Infrastructure / Systems Engineer"
-        self.years     = "15+"
-        self.runs_on   = "coffee and uptime"
-        self.homelab   = True
-        self.motto     = "automate it once, never touch it again"
-
-    def status(self):
-        return "building something in a terminal right now"
+        self.role    = "Infrastructure / Systems Engineer"
+        self.runs_on = "coffee and uptime"
+        self.motto   = "automate it once, never touch it again"
 ```
 
 <div align="center">
 
----
-
-*Most of the good stuff lives behind closed doors.*
-*If it is here and public, it was meant to be shared.*
-
----
-
-```
-[ systems ]  [ networks ]  [ automation ]  [ self-hosting ]
-```
+*Thanks for stopping by.*
 
 </div>
