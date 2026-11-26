@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" alt="The Python Lord" width="455">
+<img src="banner.svg" alt="the python lord — infrastructure engineer" width="760">
 
 ### Infrastructure & systems engineer
 
