@@ -35,7 +35,7 @@
 
     <!-- L2: output name -->
     <text x="34" y="149" font-size="24" font-weight="bold" fill="#3fb950" filter="url(#glow)" opacity="0">
-      the python lord
+      The Python Lord
       <animate attributeName="opacity" values="0;1" dur="0.25s" begin="1.2s" fill="freeze"/>
     </text>
 
